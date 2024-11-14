@@ -1,4 +1,2 @@
-Admin Account Created - Name: rj
+Admin Account Created - Name: rajkaml
 Admin Account Password - Pass: 5tg
-Admin Account Created - Name: rajkamal
-Admin Account Password - Pass: raj
